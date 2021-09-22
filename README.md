@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, DevOps, Vue JS**
 
-- 👯 I’m looking to collaborate on [PHP and JavaScript](Open Source Projects/Libraries with P)
+- 👯 I’m looking to collaborate on [PHP and JavaScript](Open Source Projects/Libraries with PHP and JS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shawon3719](https://github.com/shawon3719)
 
