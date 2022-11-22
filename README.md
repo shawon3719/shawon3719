@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon3719&label=Profile%20views&color=0e75b6&style=flat" alt="shawon3719" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawon3719" alt="shawon3719" /></a> </p>
-
 - 🔭 I’m currently working at [Tikweb](https://tikweb.com/)
 
 - 👯 I’m looking to collaborate on **[PHP and JavaScript](Open Source Projects/Libraries with PHP and JS)**
